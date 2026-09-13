@@ -32,11 +32,12 @@ BigBasket_Capstone/
 ├── 02_aggregation_joins.sql
 ├── 03_reporting.sql
 ├── monthly_category_revenue.csv
-├── BigBasket_Category_Performance.xlsx
+├── BigBasket Category Performance Diagnostic.xlsx
+├── BigBasket_Category_Performance.twb
 ├── analysis.ipynb
 ├── ai_log.md
 └── README.md
-
+```
 ## Part 1 — SQL and SQLite
 
 The supplied data-generation script was used without changing the fixed random seed or predefined lists and weights.
